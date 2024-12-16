@@ -4,14 +4,14 @@ const Index = () => {
   return (
     <div className="poem-container min-h-screen flex items-center justify-center p-4 sm:p-6 md:p-8">
       <main className="max-w-2xl mx-auto animate-fade-in">
-        <article className="bg-white/80 backdrop-blur-sm p-8 sm:p-12 rounded-lg shadow-lg">
-          <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl text-center mb-8 text-gray-800">
+        <article className="bg-black/90 backdrop-blur-sm p-8 sm:p-12 rounded-lg shadow-lg">
+          <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl text-center mb-8 text-white">
             The Path Unseen
           </h1>
-          <h2 className="font-serif text-xl text-center mb-8 text-gray-600 italic">
+          <h2 className="font-serif text-xl text-center mb-8 text-white/80 italic">
             by Noah Awad
           </h2>
-          <div className="space-y-6 font-serif text-lg sm:text-xl text-gray-700 leading-relaxed poem-text">
+          <div className="space-y-6 font-serif text-lg sm:text-xl text-white/90 leading-relaxed poem-text">
             <p>
               Two paths diverged in a world remade,<br />
               And sorry I could not travel both<br />

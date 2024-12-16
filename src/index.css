@@ -11,15 +11,11 @@
 }
 
 .poem-container {
-  background-image: linear-gradient(
-    to bottom,
-    rgba(255, 255, 255, 0.9),
-    rgba(255, 255, 255, 0.95)
-  ),
-  url('https://postimg.cc/dLK8KzRC');
+  background-image: url('/lovable-uploads/d1988875-079d-4ea1-a411-2af19b162fa3.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  min-height: 100vh;
 }
 
 .poem-text {
