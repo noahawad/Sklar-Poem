@@ -9,7 +9,7 @@ const Index = () => {
             The Path Unseen
           </h1>
           <h2 className="font-serif text-xl text-center mb-8 text-gray-600 italic">
-            by Robert Frost
+            by Noah Awad
           </h2>
           <div className="space-y-6 font-serif text-lg sm:text-xl text-gray-700 leading-relaxed poem-text">
             <p>
